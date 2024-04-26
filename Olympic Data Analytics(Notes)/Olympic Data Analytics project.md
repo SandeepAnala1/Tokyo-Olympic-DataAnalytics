@@ -1,0 +1,7 @@
+[[Steps]]
+[[Azure Databricks]]
+[[Hierarchical Namespace]]
+[[1) Architecture& Azure Account]]
+[[2) Resource Group]]
+[[3) Azure Services]]
+[[4) Linked Service]]
